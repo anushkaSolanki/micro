@@ -1,0 +1,5 @@
+com/example/moviecatalogservice/models/Movies.class
+com/example/moviecatalogservice/models/CatalogItem.class
+com/example/moviecatalogservice/resource/MovieCatalogResource.class
+com/example/moviecatalogservice/models/RatingsInfo.class
+com/example/moviecatalogservice/MovieCatalogServiceApplication.class

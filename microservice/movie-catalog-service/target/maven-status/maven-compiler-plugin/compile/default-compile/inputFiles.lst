@@ -1,0 +1,5 @@
+/home/deq/Tools/microservice/movie-catalog-service/src/main/java/com/example/moviecatalogservice/MovieCatalogServiceApplication.java
+/home/deq/Tools/microservice/movie-catalog-service/src/main/java/com/example/moviecatalogservice/resource/MovieCatalogResource.java
+/home/deq/Tools/microservice/movie-catalog-service/src/main/java/com/example/moviecatalogservice/models/RatingsInfo.java
+/home/deq/Tools/microservice/movie-catalog-service/src/main/java/com/example/moviecatalogservice/models/Movies.java
+/home/deq/Tools/microservice/movie-catalog-service/src/main/java/com/example/moviecatalogservice/models/CatalogItem.java
